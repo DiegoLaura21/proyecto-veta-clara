@@ -1,6 +1,6 @@
 # Proyecto Veta Clara
 
-Veta Clara es un caso de portafolio sobre un sensor espectrométrico ficticio que estima las leyes de zinc (Zn) y plomo (Pb) en dos fajas transportadoras. El objetivo es medir cuánto se desvía de los ensayos de laboratorio y si las condiciones de operación ayudan a corregir esa desviación.
+Veta Clara es un caso de portafolio sobre un sensor espectrométrico que estima las leyes de zinc (Zn) y plomo (Pb) en dos fajas transportadoras. El objetivo es medir cuánto se desvía de los ensayos de laboratorio y si las condiciones de operación ayudan a corregir esa desviación.
 
 El [notebook de Python](veta_clara.ipynb) muestra las celdas ejecutadas, las gráficas y su interpretación. El [script de análisis](src/analizar.py) contiene las funciones reutilizables y permite regenerar todas las salidas desde el Excel.
 
