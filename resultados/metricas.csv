@@ -1,0 +1,7 @@
+﻿metal,metodo,n_ajuste,n_prueba,sesgo_pp,mae_pp,rmse_pp
+Zinc,Lectura directa,940,431,0.326668,0.404445,0.488504
+Zinc,Corrección de sesgo,940,431,0.002964,0.286533,0.363226
+Zinc,Regresión contextual,940,431,-0.023411,0.180492,0.228721
+Plomo,Lectura directa,940,431,0.004093,0.101833,0.129166
+Plomo,Corrección de sesgo,940,431,0.000845,0.101674,0.129104
+Plomo,Regresión contextual,940,431,0.000170,0.085024,0.106994
